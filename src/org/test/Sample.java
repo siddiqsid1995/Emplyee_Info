@@ -12,6 +12,10 @@ public class Sample {
 
 		System.out.println(s.charAt(4));
 
+		int a[] = { 10, 40, 30, 20, 10 };
+
+		System.out.println(a[2]);
+
 	}
 
 }
