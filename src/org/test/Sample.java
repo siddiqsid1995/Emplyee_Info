@@ -8,6 +8,10 @@ public class Sample {
 
 		System.out.println("8745626520");
 
+		String s = "welcome";
+
+		System.out.println(s.charAt(4));
+
 	}
 
 }
